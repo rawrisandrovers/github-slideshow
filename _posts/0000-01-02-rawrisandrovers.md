@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 ----
-Your text
+I may be an idiot, but I'm not stupid.
 Use the left arrow to go back!
